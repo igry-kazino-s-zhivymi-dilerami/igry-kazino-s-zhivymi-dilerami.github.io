@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: igry-kazino-s-zhivymi-dilerami.github.io
+Sitemap: https://igry-kazino-s-zhivymi-dilerami.github.io/sitemap.xml
